@@ -3,7 +3,13 @@
 ### Angular 2 Starter Template
 http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts
 
-## Components Related
+## Http
+
+#### Star Wars Live Search
+http://plnkr.co/edit/TWt9Gdo6AdXa2ZMu9tt7?p=preview
+
+
+## Components
 
 #### Smart Container
 http://plnkr.co/edit/EIsS2pFsDwATaq1Ibxvb?p=preview
@@ -44,9 +50,7 @@ http://plnkr.co/edit/EY9AX6AdqNtAtFyx4SsP?p=preview&open=app%2Fapp.component.ts
 ##### Renderer CreateElement
 http://plnkr.co/edit/cyVTCMsVgGBeUYITnsVl?p=preview&open=app/app.component.ts
 
----
-
-## RxJS Related
+## RxJS + @ngrx/store
 
 #### Angular 2 + RxJS Super Simple Chat Room
 http://plnkr.co/edit/tqZFewX5ZdUYyxDp9LFO?p=preview
@@ -57,3 +61,7 @@ http://plnkr.co/edit/avLMS3m0VNMXSfUhT7K9?p=preview
 #### Angular 2 + @ngrx/store + @ngrx/effects Early Preview
 http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
 
+## WebStorm
+
+#### Angular 2 Tips & Tricks Webinar
+https://youtu.be/U-GQ8Nz8agY
