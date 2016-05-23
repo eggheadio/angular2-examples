@@ -79,3 +79,6 @@ https://youtu.be/U-GQ8Nz8agY
 
 ## In Progress
 http://plnkr.co/edit/3xmgyTVFlMGT0KZqdBml?p=preview&open=app%2Fapp.component.ts
+
+## Requests?
+File an issue with a solid description and we'll see what we can do.
