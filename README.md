@@ -47,19 +47,23 @@ http://plnkr.co/edit/IpQ2HRa7yBj2YKZdgBZl?p=preview&open=app%2Fapp.component.ts
 #### Setting a Property on a Loaded Component
 http://plnkr.co/edit/EY9AX6AdqNtAtFyx4SsP?p=preview&open=app%2Fapp.component.ts
 
-##### Renderer CreateElement
+#### Renderer CreateElement
 http://plnkr.co/edit/cyVTCMsVgGBeUYITnsVl?p=preview&open=app/app.component.ts
 
 ## RxJS + @ngrx/store
 
-#### Angular 2 + RxJS Super Simple Chat Room
-http://plnkr.co/edit/tqZFewX5ZdUYyxDp9LFO?p=preview
-
 #### Angular 2 + @ngrx/store Starter Template
 http://plnkr.co/edit/avLMS3m0VNMXSfUhT7K9?p=preview
 
+#### Angular 2 + RxJS Super Simple Chat Room
+http://plnkr.co/edit/tqZFewX5ZdUYyxDp9LFO?p=preview
+
+#### Wikipedia Image Search
+http://plnkr.co/edit/zhVnDBw2yRP3ZnDsj87Q?p=preview
+
 #### Angular 2 + @ngrx/store + @ngrx/effects Early Preview
 http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
+
 
 ## WebStorm
 
