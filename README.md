@@ -66,8 +66,11 @@ http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
 
 
 ## RxJS Only
-#### Observale.ajax Example
+#### Observable.ajax Example
 http://plnkr.co/edit/J4d6N2KMQKLYsPF6Xmmo?open=app%2Fapp.component.ts&p=preview
+
+#### Multi-select
+http://plnkr.co/edit/KcxZHED6ZkfVFY6fOmxW?open=app%2Fapp.component.ts&p=preview
 
 ## WebStorm
 
