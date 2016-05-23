@@ -65,6 +65,10 @@ http://plnkr.co/edit/zhVnDBw2yRP3ZnDsj87Q?p=preview
 http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
 
 
+## RxJS Only
+#### Observale.ajax Example
+http://plnkr.co/edit/J4d6N2KMQKLYsPF6Xmmo?open=app%2Fapp.component.ts&p=preview
+
 ## WebStorm
 
 #### Angular 2 Tips & Tricks Webinar
