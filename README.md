@@ -74,7 +74,7 @@ http://plnkr.co/edit/tqZFewX5ZdUYyxDp9LFO?p=preview
 http://plnkr.co/edit/zhVnDBw2yRP3ZnDsj87Q?p=preview
 
 #### Angular 2 + @ngrx/store + @ngrx/effects
-http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
+http://plnkr.co/edit/cihgIYQ18CjfWqY1WhQp?p=preview
 
 
 ## RxJS Only
