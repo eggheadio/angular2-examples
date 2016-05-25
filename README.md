@@ -53,6 +53,9 @@ http://plnkr.co/edit/EY9AX6AdqNtAtFyx4SsP?p=preview&open=app%2Fapp.component.ts
 #### Renderer CreateElement
 http://plnkr.co/edit/cyVTCMsVgGBeUYITnsVl?p=preview&open=app/app.component.ts
 
+#### Using a Differ to Render Templates
+http://plnkr.co/edit/ZkdJ9nScDPByFDGmVtnE?p=preview&open=app%2Fapp.component.ts
+
 #### Subscribing to a Child's EventEmitter
 http://plnkr.co/edit/zA5AHGGaIPbGKE9ZiDYW?p=preview&open=app%2Fapp.component.ts
 
