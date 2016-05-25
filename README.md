@@ -18,6 +18,11 @@ http://plnkr.co/edit/7yz2DUttPjI5GVJkvr5h?open=app%2Fapp.component.ts&p=preview
 #### Focus on Another Field When Hitting Enter
 http://plnkr.co/edit/pYJoQYWwGwB11uOdKqTB?p=preview&open=app%2Fapp.component.ts
 
+## Pipes
+#### A Simple Clock
+http://plnkr.co/edit/EzGOZKrSky446O7e8CZw?p=preview&open=app%2Fapp.component.ts
+
+
 ## Components
 
 #### Smart Container
