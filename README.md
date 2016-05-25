@@ -76,6 +76,8 @@ http://plnkr.co/edit/zhVnDBw2yRP3ZnDsj87Q?p=preview
 #### Angular 2 + @ngrx/store + @ngrx/effects
 http://plnkr.co/edit/cihgIYQ18CjfWqY1WhQp?p=preview
 
+#### Time Machine
+http://plnkr.co/edit/finosNCnuELPRe7iEuWL?p=preview
 
 ## RxJS Only
 #### Observable.ajax Example
