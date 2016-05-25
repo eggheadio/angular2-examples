@@ -73,7 +73,7 @@ http://plnkr.co/edit/tqZFewX5ZdUYyxDp9LFO?p=preview
 #### Wikipedia Image Search
 http://plnkr.co/edit/zhVnDBw2yRP3ZnDsj87Q?p=preview
 
-#### Angular 2 + @ngrx/store + @ngrx/effects Early Preview
+#### Angular 2 + @ngrx/store + @ngrx/effects
 http://plnkr.co/edit/4z4Vd5zLD5dkwSm07GJk?p=preview
 
 
