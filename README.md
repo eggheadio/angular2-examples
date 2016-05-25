@@ -8,6 +8,9 @@ http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts
 #### Star Wars Live Search
 http://plnkr.co/edit/TWt9Gdo6AdXa2ZMu9tt7?p=preview
 
+#### Automated Wikipedia Search
+http://plnkr.co/edit/G9bOb9LWpufYWBuA8wh6?p=preview&open=app%2Fapp.component.ts
+
 ## Tricks
 #### Always Scroll to Bottom
 http://plnkr.co/edit/7yz2DUttPjI5GVJkvr5h?open=app%2Fapp.component.ts&p=preview
