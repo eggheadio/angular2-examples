@@ -73,6 +73,11 @@ http://plnkr.co/edit/ZkdJ9nScDPByFDGmVtnE?p=preview&open=app%2Fapp.component.ts
 #### Subscribing to a Child's EventEmitter
 http://plnkr.co/edit/zA5AHGGaIPbGKE9ZiDYW?p=preview&open=app%2Fapp.component.ts
 
+## Directives
+
+#### Setting an Attribute's Value with @HostBinding()
+http://plnkr.co/edit/x6hU0uQXGL6PYjZGjQ3k?p=preview&open=app%2Fapp.component.ts
+
 ## RxJS + @ngrx/store
 
 #### Angular 2 + @ngrx/store Starter Template
