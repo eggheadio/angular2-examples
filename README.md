@@ -73,6 +73,9 @@ http://plnkr.co/edit/ZkdJ9nScDPByFDGmVtnE?p=preview&open=app%2Fapp.component.ts
 #### Subscribing to a Child's EventEmitter
 http://plnkr.co/edit/zA5AHGGaIPbGKE9ZiDYW?p=preview&open=app%2Fapp.component.ts
 
+#### A Toggle Button
+http://plnkr.co/edit/oAVUshxMFhFhsxMxxQrd?p=preview&open=app%2Fapp.component.ts
+
 ## Directives
 
 #### Setting an Attribute's Value with @HostBinding()
