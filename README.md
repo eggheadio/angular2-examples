@@ -104,6 +104,9 @@ http://plnkr.co/edit/cihgIYQ18CjfWqY1WhQp?p=preview
 #### Time Machine
 http://plnkr.co/edit/finosNCnuELPRe7iEuWL?p=preview
 
+#### Queueing Items
+http://plnkr.co/edit/OIz0cgo9mtn7mG6HdTyt?p=preview&open=app%2Fapp.component.ts
+
 ## RxJS Only
 #### Observable.ajax Example
 http://plnkr.co/edit/J4d6N2KMQKLYsPF6Xmmo?open=app%2Fapp.component.ts&p=preview
