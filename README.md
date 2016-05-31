@@ -76,6 +76,9 @@ http://plnkr.co/edit/zA5AHGGaIPbGKE9ZiDYW?p=preview&open=app%2Fapp.component.ts
 #### A Toggle Button
 http://plnkr.co/edit/oAVUshxMFhFhsxMxxQrd?p=preview&open=app%2Fapp.component.ts
 
+#### Components as Streams
+http://plnkr.co/edit/dy2PtRXsLqq3DJZ7aRyG?p=preview&open=app%2Fapp.component.ts
+
 ## Directives
 
 #### Setting an Attribute's Value with @HostBinding()
