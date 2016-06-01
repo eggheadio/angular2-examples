@@ -62,7 +62,7 @@ http://plnkr.co/edit/EimDzA0L2aLYKhYRPmlf?p=preview
 http://plnkr.co/edit/IpQ2HRa7yBj2YKZdgBZl?p=preview&open=app%2Fapp.component.ts
 
 #### Setting a Property on a Loaded Component
-http://plnkr.co/edit/EY9AX6AdqNtAtFyx4SsP?p=preview&open=app%2Fapp.component.ts
+http://plnkr.co/edit/HnhJx0I7RINEyE66bJ0M?p=preview&open=app%2Fapp.component.ts
 
 #### Renderer CreateElement
 http://plnkr.co/edit/cyVTCMsVgGBeUYITnsVl?p=preview&open=app/app.component.ts
