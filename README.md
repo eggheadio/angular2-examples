@@ -104,7 +104,7 @@ http://plnkr.co/edit/cihgIYQ18CjfWqY1WhQp?p=preview
 #### Time Machine
 http://plnkr.co/edit/finosNCnuELPRe7iEuWL?p=preview
 
-#### Queueing Items
+#### Queuing Items
 http://plnkr.co/edit/E57afQC5zwSQFt2oH5Z0?p=preview&open=app%2Fapp.component.ts
 
 ## RxJS Only
