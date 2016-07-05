@@ -6,7 +6,7 @@ http://plnkr.co/edit/2aIgMzUx7XgZe9EA6upB?p=preview&open=app%2Fapp.component.ts
 ## Router
 
 ### Angular 2 Router Template
-http://plnkr.co/edit/JZ3WSRWIqNa7brGQqjQz?p=preview
+http://plnkr.co/edit/v4JulUnmohFkxSinJ40V?p=preview
 
 ## Http
 
