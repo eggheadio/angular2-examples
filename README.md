@@ -113,6 +113,10 @@ http://plnkr.co/edit/finosNCnuELPRe7iEuWL?p=preview
 http://plnkr.co/edit/E57afQC5zwSQFt2oH5Z0?p=preview&open=app%2Fapp.component.ts
 
 ## RxJS Only
+
+#### RxJS Only Starter Template
+https://plnkr.co/edit/AbPgvTFto9qdV84sbv1A?p=preview
+
 #### Observable.ajax Example
 http://plnkr.co/edit/J4d6N2KMQKLYsPF6Xmmo?open=app%2Fapp.component.ts&p=preview
 
